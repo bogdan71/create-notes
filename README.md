@@ -1,5 +1,12 @@
 # React + TypeScript + Vite
 
+Origins:
+
+https://github.com/WebDevSimplified/react-note-taking-app
+
+https://www.youtube.com/watch?v=j898RGRw0b4
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
